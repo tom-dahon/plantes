@@ -1,2 +1,2 @@
-# Génération de plantes via les L-Systèmes :
-## __Un L-système modélise le processus de développement et de prolifération de plantes ou de bactéries__
+# Génération de plantes via les L-Systèmes :  
+## __Un L-système modélise le processus de développement et de prolifération de plantes ou de bactéries.__
